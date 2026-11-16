@@ -1,0 +1,4 @@
+airbnb.db
+data/*.csv
+data/*.csv.gz
+__pycache__/

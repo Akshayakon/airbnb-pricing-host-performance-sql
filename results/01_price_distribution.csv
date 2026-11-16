@@ -1,0 +1,4 @@
+room_type,listings,p10,median,p90
+Entire home/apt,969,90.0,163.0,281.0
+Private room,462,28.0,43.0,66.0
+Shared room,69,14.0,24.0,38.0

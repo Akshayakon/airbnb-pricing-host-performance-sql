@@ -1,0 +1,23 @@
+driver,level,listings,avg_price
+bedrooms,4,80,294.0
+bedrooms,3,128,234.0
+bedrooms,2,266,189.0
+bedrooms,1,383,146.0
+bedrooms,0,112,100.0
+neighbourhood,Downtown,221,172.0
+neighbourhood,Waterfront,168,168.0
+neighbourhood,Old Town,186,144.0
+neighbourhood,Midtown,211,135.0
+neighbourhood,University District,189,121.0
+neighbourhood,Northside,170,103.0
+neighbourhood,Eastside,205,101.0
+neighbourhood,Airport Area,150,75.0
+rating_band,4.7-4.89,463,139.0
+rating_band,4.9+,319,134.0
+rating_band,4.4-4.69,537,121.0
+rating_band,<4.4,181,120.0
+room_type,Entire home/apt,969,176.0
+room_type,Private room,462,46.0
+room_type,Shared room,69,25.0
+superhost,yes,631,138.0
+superhost,no,869,123.0

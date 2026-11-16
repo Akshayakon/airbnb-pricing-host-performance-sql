@@ -1,0 +1,7 @@
+segment,superhost,hosts,avg_price,avg_rating,occupancy_pct
+1 listing,1,1,235.0,4.85,66.3
+1 listing,0,9,163.0,4.59,68.4
+2-5 listings,1,29,133.0,4.67,76.1
+2-5 listings,0,69,114.0,4.67,72.7
+6+ listings,1,30,140.0,4.7,75.9
+6+ listings,0,58,124.0,4.71,71.5

@@ -1,0 +1,9 @@
+neighbourhood,listings,avg_nightly_price,occupancy_pct,avg_revenue_per_listing,total_revenue
+Downtown,221,172.0,73.1,42196.0,9325307.0
+Waterfront,168,168.0,72.6,41513.0,6974192.0
+Old Town,186,144.0,72.9,36430.0,6776053.0
+Midtown,211,135.0,73.0,34654.0,7311934.0
+University District,189,121.0,72.9,31475.0,5948844.0
+Northside,170,103.0,73.9,27368.0,4652518.0
+Eastside,205,101.0,74.6,26804.0,5494760.0
+Airport Area,150,75.0,75.2,20490.0,3073556.0
